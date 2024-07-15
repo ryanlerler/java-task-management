@@ -1,0 +1,11 @@
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/repository/UserRepository.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/repository/TaskRepository.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/model/User.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/view/UserView.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/service/TaskService.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/model/Task.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/view/TaskView.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/view/LoginView.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/service/UserService.java
+/home/ryanler/task-management-app/src/main/java/com/example/com.example.taskmanagement/config/SecurityConfig.java
+/home/ryanler/task-management-app/src/main/java/com/example/Application.java
